@@ -356,7 +356,7 @@ with st.container(border=True):
 st.divider()
 
 if quota and state and gender and rank and predict_btn and branch and brands: 
-    data = pd.read_csv('c:\Users\aniru\OneDrive\Documents\college Predictor\app.py')
+    data = pd.read_csv('c:/Users/aniru/OneDrive/Documents/college Predictor/app.py')
     del data['Unnamed: 0']
 
     # --- Mandatory Constraints ---
