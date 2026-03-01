@@ -1,0 +1,18 @@
+[theme]
+# A professional deep blue for buttons and sliders
+primaryColor = "#0056b3"
+
+# A very light gray/white for the main background
+backgroundColor = "#f8f9fa"
+
+# A slightly darker gray for the sidebar and containers
+secondaryBackgroundColor = "#e9ecef"
+
+# Sharp, dark text for maximum readability
+textColor = "#212529"
+
+# Sets the base to light mode
+base = "light"
+
+# Use "serif" for a more formal, academic look
+font = "serif"
